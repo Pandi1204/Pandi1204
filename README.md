@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pandishwari
+- 👀 I’m interested in Coding Languages
+- 🌱 I’m currently learning C Programming and JD Edwards Technology
+- 💞️ I’m looking to collaborate on ERP and JD edwards Technology
+- 📫 My mail ID is pandishwari12@gmail.com
